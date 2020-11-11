@@ -1,5 +1,8 @@
 # clock-vue
 
+Practice Vue3
+According to [this youtube](https://www.youtube.com/watch?v=weZFfrjF-k4).
+
 ## Project setup
 ```
 npm install
